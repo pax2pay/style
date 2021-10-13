@@ -1,2 +1,2 @@
 # style
-Common files for the Issuefab Visual Identity.
+Common files for the Pax2Pay Visual Identity.
