@@ -1,8 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Mono|PT+Sans:400,400italic,700|PT+Serif:400,400italic,700|PT+Sans+Caption&subset=latin,latin-ext);
+@import url('https://fonts.googleapis.com/css2?family=Anybody:wght@600&family=Open+Sans:ital,wght@0,400;0,600;1,400&family=Roboto+Mono:wght@400;500&display=swap');
 :root {
-	--logotype-front: url("logo/pax2pay-large.svg");
-	--logotype-top: url("logo/pax2pay-small.svg");
-	--font-default: 10pt "PT Serif", "Garamond", "Georgia", serif;
-	--font-caption: "PT Sans Caption", "Verdana", sans-serif;
-	--font-monospace: 10pt "PT Mono", "Lucida Console", Monaco, monospace;
+	--logotype-front: url("logo/pax2pay-light-vertical.svg");
+	--logotype-top: url("logo/pax2pay-light-horizontal.svg");
+	--font-default: 10pt 'Open Sans', sans-serif;
+	--font-caption: 'Anybody', sans-serif;
+	--font-monospace: 10pt 'Roboto Mono', monospace;
 }
