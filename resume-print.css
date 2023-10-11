@@ -2,7 +2,7 @@
 	size: A4;
 	margin: 50mm 20mm 40mm 60mm;
 	@top-left {
-		content:url("logo/issuefab-d06.svg");
+		content:url("logo/pax2pay-light-horizontal.svg");
 		margin: 25mm 0 0 -40mm;
 		vertical-align: top;
 	}

@@ -1,11 +1,11 @@
 @import url("resume-print.css") print;
-@import url(https://fonts.googleapis.com/css?family=PT+Mono|PT+Sans:400,400italic,700|PT+Sans+Caption&subset=latin,latin-ext);
+@import url('https://fonts.googleapis.com/css2?family=Anybody:wght@600&family=Open+Sans:ital,wght@0,400;0,600;1,400&family=Roboto+Mono:wght@400;500&display=swap');
 html {
-	font: 10pt "PT Sans", "Garamond", "Georgia", serif;
+	font: 10pt 'Open Sans', sans-serif;
 	text-align: left;
 }
 header, h1, h2, h3, h4, h5, h6, nav {
-	font-family:"PT Sans Caption", "Verdana", sans-serif;
+	font-family:'Anybody', sans-serif;
 	font-weight: normal;
 	page-break-after: avoid;
 }
@@ -41,7 +41,7 @@ p.time {
 	font-style: italic;
 }
 code {
-	font-family: "PT Mono", "Lucida Console", Monaco, monospace;
+	font-family: 'Roboto Mono', monospace;
 }
 math {
 	display: block;
