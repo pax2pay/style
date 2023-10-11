@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Anybody:wght@600&family=Open+Sans:ital,wght@0,400;0,600;1,400&family=Roboto+Mono:wght@400;500&display=swap');
 :root {
-	--logotype-front: url("logo/pax2pay-light-vertical.svg");
-	--logotype-top: url("logo/pax2pay-light-horizontal.svg");
+	--logotype-front: url("logo/pax2pay-light-vertical-5.svg");
+	--logotype-top: url("logo/pax2pay-light-horizontal-1.svg");
 	--font-default: 10pt 'Open Sans', sans-serif;
 	--font-caption: 'Anybody', sans-serif;
 	--font-monospace: 10pt 'Roboto Mono', monospace;
