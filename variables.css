@@ -6,3 +6,10 @@
 	--font-caption: 'Anybody', sans-serif;
 	--font-monospace: 10pt 'Roboto Mono', monospace;
 }
+dl > dt code,
+dl > dt > code {
+	font-weight: bold;
+}
+dl > dd + dt {
+	margin-top: .3em;
+}
